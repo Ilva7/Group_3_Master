@@ -31,15 +31,9 @@ public class Main {
         public static void ilva() {
             System.out.println("Ilva");
         }
-        public static void Janis() {System.out.println("Janis");}
-    public static void Zane() {
-        System.out.println("Zane");
-    }
-
-    public static void ilva() {
-        System.out.println("Ilva");
-    }
-
+        public static void Janis() 
+        {System.out.println("Janis");}
+    
     public static void silvija() {
         System.out.println("Silvija");
     }
