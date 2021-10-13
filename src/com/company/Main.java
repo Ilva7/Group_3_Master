@@ -7,24 +7,27 @@ public class Main {
         andra();
         alise();
         Zane();
-
+        ilva();
     }
-    public static void rocknroll()
-    {
+
+    public static void rocknroll() {
         System.out.println("Rock and Roll");
     }
-    public static void andra()
-    {
+
+    public static void andra() {
         System.out.println("Andra");
-
-    public static void alise() {
-        System.out.println("alise");
     }
+        public static void alise () {
+            System.out.println("alise");
+        }
 
-    public static void Zane()
-    {
-        System.out.println("Zane");
+        public static void Zane ()
+        {
+            System.out.println("Zane");
+        }
+        public static void ilva() {
+            System.out.println("Ilva");
+        }
     }
-}
 
 
