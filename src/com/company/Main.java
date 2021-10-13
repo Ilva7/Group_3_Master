@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         rocknroll();
-        andra();
     }
     public static void rocknroll()
     {
