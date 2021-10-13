@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         rocknroll();
-
         andra();
         alise();
         Zane();
@@ -21,7 +20,6 @@ public class Main {
     public static void alise() {
         System.out.println("alise");
     }
-
 
     public static void Zane()
     {
