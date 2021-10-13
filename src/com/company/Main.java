@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void alise() {
-        System.out.println("Alise");
+        System.out.println("alise");
     }
 
 }
