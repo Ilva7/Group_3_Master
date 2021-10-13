@@ -9,4 +9,11 @@ public class Main {
     {
         System.out.println("Rock and Roll");
     }
+
+
+    public static void alise() {
+        System.out.println("alise");
+    }
+
+
 }
