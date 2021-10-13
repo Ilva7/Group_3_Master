@@ -8,6 +8,8 @@ public class Main {
         alise();
         Zane();
         ilva();
+        Janis();
+
     }
 
     public static void rocknroll() {
@@ -28,6 +30,7 @@ public class Main {
         public static void ilva() {
             System.out.println("Ilva");
         }
+        public static void Janis() {System.out.println("Janis");}
     }
 
 
